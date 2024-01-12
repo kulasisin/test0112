@@ -1,10 +1,11 @@
 {
-  "name": "vue3-live-class-week2-homework",
+  "name": "test0112",
   "version": "0.0.0",
   "private": true,
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "deploy": "deploy.sh",
     "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
