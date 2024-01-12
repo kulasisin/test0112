@@ -5,10 +5,8 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/vue3-live-class-week2-homework/',
-  plugins: [
-    vue(),
-  ],
+  base: '/test0112/',
+  plugins: [vue()],
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
