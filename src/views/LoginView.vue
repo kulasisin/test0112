@@ -160,7 +160,7 @@ export default {
 </script>
 <style lang="scss">
 .test {
-  background-image: url('/src/assets/images/components/moon.png');
+  background-image: url('/src/assets/images/components/test.jpg');
   height: 300px;
 }
 </style>
